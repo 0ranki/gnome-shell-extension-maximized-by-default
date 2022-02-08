@@ -9,3 +9,5 @@ Start all windows maximized by default. Useful for those of us utilizing workspa
 
 Only maximizes windows that are marked to support it, e.g. dialogs are not maximized.
 
+To install, clone the repo and run install.sh in the repo base directory.
+A logout/relogin is required for the extension to register in installed extensions.
